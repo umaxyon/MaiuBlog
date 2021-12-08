@@ -1,9 +1,9 @@
 <div class="mycard-container">
     <div class="mycard-img">
-        <a href="{{ include.href }}"><img src="{{ include.img }}"></a>
+        <a href="{{ include.href | relative_url }}"><img src="{{ include.img | relative_url }}"></a>
     </div>
     <div class="mycard-text">
-        <h3><a href="{{ include.href }}">{{ include.title }}</a></h3>
+        <h3><a href="{{ include.href | relative_url }}">{{ include.title }}</a></h3>
         {{ include.content }}
     </div>
 </div>
