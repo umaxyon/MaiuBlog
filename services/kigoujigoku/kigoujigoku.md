@@ -9,7 +9,7 @@ date: 2021-12-08
 
 
 
-<script type="module" crossorigin src="{{ '/services/kigoujigoku/assets/index.9743a1bd.js' | relative_url }}"></script>
+<script type="module" crossorigin src="{{ '/services/kigoujigoku/assets/index.af7dbd45.js' | relative_url }}"></script>
 <link rel="modulepreload" href="{{ '/services/kigoujigoku/assets/vendor.f1cc6c9a.js' | relative_url }}">
 <link rel="stylesheet" href="{{ '/services/kigoujigoku/assets/index.cd9c0392.css' | relative_url }}">
 
