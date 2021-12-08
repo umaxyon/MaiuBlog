@@ -2,6 +2,7 @@
 layout: "page"
 title: 記号地獄 - タイピングGame
 permalink: /services/kigoujigoku/
+image: /assets/kigoujigoku.png
 ---
 <script type="module" crossorigin src="{{ '/services/kigoujigoku/assets/index.9743a1bd.js' | relative_url }}"></script>
 <link rel="modulepreload" href="{{ '/services/kigoujigoku/assets/vendor.f1cc6c9a.js' | relative_url }}">
