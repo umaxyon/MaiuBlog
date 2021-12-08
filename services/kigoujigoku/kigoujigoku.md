@@ -3,9 +3,9 @@ layout: "page"
 title: 記号地獄 - タイピングGame
 permalink: /services/kigoujigoku/
 ---
-<script type="module" crossorigin src={{ "/services/kigoujigoku/assets/index.9743a1bd.js" | relative_url }}></script>
-<link rel="modulepreload" href={{ "/services/kigoujigoku/assets/vendor.f1cc6c9a.js" | relative_url }}>
-<link rel="stylesheet" href={{ "/services/kigoujigoku/assets/index.cd9c0392.css" | relative_url }}>
+<script type="module" crossorigin src="{{ '/services/kigoujigoku/assets/index.9743a1bd.js' | relative_url }}"></script>
+<link rel="modulepreload" href="{{ '/services/kigoujigoku/assets/vendor.f1cc6c9a.js' | relative_url }}">
+<link rel="stylesheet" href="{{ '/services/kigoujigoku/assets/index.cd9c0392.css' | relative_url }}">
 
 <div id="kigou_root"></div>
 
