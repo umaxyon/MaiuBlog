@@ -26,7 +26,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Twitterで書ききれない長文書きたくなった時の駄文置き場。
   プログラミングに関する情報発信、自作サービス紹介、勉強中の事など。
-baseurl: "MaiuBlog" # the subpath of your site, e.g. /blog
+baseurl: "/MaiuBlog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maiumaimaiu5
 github_username:  umaxyon

@@ -20,3 +20,11 @@ date: 2021-12-08
 EasyかHardを選んでクリックすると、上から記号が振ってくるので、タイピングで撃ち落とします。
 黒いラインに記号が触れるとゲームオーバーです。
 
+
+<span style="color: #999">※以下で動作確認済み。</span>
+
+<span style="color: #999">
+Chrome(win,mac)<br />
+Edge(win)<br />
+Safari(mac)<br />
+</span>
