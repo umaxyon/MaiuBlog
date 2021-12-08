@@ -3,6 +3,7 @@ layout: "page"
 title: 記号地獄 - タイピングGame
 permalink: /services/kigoujigoku/
 image: https://umaxyon.github.io/MaiuBlog/services/kigoujigoku/tw_img.png
+description: "記号だけで戦うタイピング練習ゲーム作りました。"
 date: 2021-12-08
 ---
 
