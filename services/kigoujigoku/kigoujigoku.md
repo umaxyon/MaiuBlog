@@ -2,7 +2,7 @@
 layout: "page"
 title: 記号地獄 - タイピングGame
 permalink: /services/kigoujigoku/
-image: kigojigoku.png
+image: https://umaxyon.github.io/MaiuBlog/services/kigoujigoku/kigojigoku.png
 date: 2021-12-08
 ---
 
