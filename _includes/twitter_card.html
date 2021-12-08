@@ -8,7 +8,7 @@
   {% assign twitter_title = site.title %}
 {% endif %}
 {% if page.image %}
-  {% assign twitter_image = site.baseurl | append: page.image %}
+  {% assign twitter_image = page.image %}
   {% assign twitter_card = "summary_large_image" %}
 {% else %}
   {% assign twitter_image = site.baseurl | append: "/favicon.png" %}
