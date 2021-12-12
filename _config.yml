@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Room Umaxyon - うまょんの部屋
+title: Room Umaxyon
 author:
   name: うまょん・マイウマイウ
   email: 
